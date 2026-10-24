@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Tyrell | Personal Portfolio</title>
+		<link>https://tyrellcharle.github.io/tags/</link>
+		<description>Recent content in Tags on Tyrell | Personal Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://tyrellcharle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Anonymity</title>
+				<link>https://tyrellcharle.github.io/tags/anonymity/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/anonymity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Analysis</title>
+				<link>https://tyrellcharle.github.io/tags/data-analysis/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/data-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Ethics</title>
+				<link>https://tyrellcharle.github.io/tags/data-ethics/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/data-ethics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Privacy</title>
+				<link>https://tyrellcharle.github.io/tags/privacy/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/privacy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Surveys</title>
+				<link>https://tyrellcharle.github.io/tags/surveys/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/surveys/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data</title>
+				<link>https://tyrellcharle.github.io/tags/data/</link>
+				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/data/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Introduction</title>
+				<link>https://tyrellcharle.github.io/tags/introduction/</link>
+				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/introduction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Example</title>
+				<link>https://tyrellcharle.github.io/tags/example/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/example/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Markdown Syntax</title>
+				<link>https://tyrellcharle.github.io/tags/markdown-syntax/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/markdown-syntax/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sample</title>
+				<link>https://tyrellcharle.github.io/tags/sample/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>https://tyrellcharle.github.io/tags/sample/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

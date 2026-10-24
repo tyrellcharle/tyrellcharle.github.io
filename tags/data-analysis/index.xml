@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data Analysis on Tyrell | Personal Portfolio</title>
+		<link>https://tyrellcharle.github.io/tags/data-analysis/</link>
+		<description>Recent content in Data Analysis on Tyrell | Personal Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://tyrellcharle.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Anonymous or Not? The Ethics of Student Feedback Surveys</title>
+				<link>https://tyrellcharle.github.io/blogs/anonymous-or-not-ethics-of-student-feedback-surveys/</link>
+				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/blogs/anonymous-or-not-ethics-of-student-feedback-surveys/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Student feedback helps colleges understand what is working and what needs improvement. It can help management decide which courses need to be updated. However, just like with great power comes ethical responsibilities.&lt;/p&gt;&#xA;&lt;p&gt;In this situation, students must log in with their college username and password to complete a survey that claims to be anonymous. The survey then asks students to rate their instructor from 1-10, so management can use the results to decide which courses need improvement.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
