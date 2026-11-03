@@ -48,40 +48,5 @@
 				<guid>https://tyrellcharle.github.io/tags/surveys/</guid>
 				<description></description>
 			</item>
-			<item>
-				<title>Data</title>
-				<link>https://tyrellcharle.github.io/tags/data/</link>
-				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/data/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Introduction</title>
-				<link>https://tyrellcharle.github.io/tags/introduction/</link>
-				<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/introduction/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Example</title>
-				<link>https://tyrellcharle.github.io/tags/example/</link>
-				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/example/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Markdown Syntax</title>
-				<link>https://tyrellcharle.github.io/tags/markdown-syntax/</link>
-				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/markdown-syntax/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sample</title>
-				<link>https://tyrellcharle.github.io/tags/sample/</link>
-				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/sample/</guid>
-				<description></description>
-			</item>
 	</channel>
 </rss>
