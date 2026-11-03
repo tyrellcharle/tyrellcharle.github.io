@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bias on Tyrell | Personal Portfolio</title>
+		<link>https://tyrellcharle.github.io/tags/bias/</link>
+		<description>Recent content in Bias on Tyrell | Personal Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://tyrellcharle.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>When AI Decides Your Future: The Hidden Problem of Bias</title>
+				<link>https://tyrellcharle.github.io/blogs/when-ai-decides-your-future-the-hidden-problem-of-bias/</link>
+				<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://tyrellcharle.github.io/blogs/when-ai-decides-your-future-the-hidden-problem-of-bias/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) and “Super intelligence” (SI) are becoming a bigger and daily part of our everyday life. Companies and business use it to review job applications, banks use it to make decisions, and hospitals use it to help with healthcare. AI can save time and decision making as well as make certain tasks easier, but that does not mean Ai always gets things right.&lt;/p&gt;&#xA;&lt;p&gt;One of the biggest concerns with Artificial intelligence and (Ai) is bias. AI systems learn from data, so if the information they are trained on contains unfair patterns or built in bias , this then can become a serious problem especially when AI is used to make decisions that affect people&amp;rsquo;s jobs, finances, education, and overall opportunities.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
