@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Tyrell | Personal Portfolio</title>
-		<link>https://tyrellcharle.github.io/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on Tyrell | Personal Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,61 +12,61 @@
 		
 			<lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://tyrellcharle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>AI Ethics</title>
-				<link>https://tyrellcharle.github.io/tags/ai-ethics/</link>
+				<link>http://localhost:1313/tags/ai-ethics/</link>
 				<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/ai-ethics/</guid>
+				<guid>http://localhost:1313/tags/ai-ethics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bias</title>
-				<link>https://tyrellcharle.github.io/tags/bias/</link>
+				<link>http://localhost:1313/tags/bias/</link>
 				<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/bias/</guid>
+				<guid>http://localhost:1313/tags/bias/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Data Ethics</title>
-				<link>https://tyrellcharle.github.io/tags/data-ethics/</link>
+				<link>http://localhost:1313/tags/data-ethics/</link>
 				<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/data-ethics/</guid>
+				<guid>http://localhost:1313/tags/data-ethics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fairness</title>
-				<link>https://tyrellcharle.github.io/tags/fairness/</link>
+				<link>http://localhost:1313/tags/fairness/</link>
 				<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/fairness/</guid>
+				<guid>http://localhost:1313/tags/fairness/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anonymity</title>
-				<link>https://tyrellcharle.github.io/tags/anonymity/</link>
+				<link>http://localhost:1313/tags/anonymity/</link>
 				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/anonymity/</guid>
+				<guid>http://localhost:1313/tags/anonymity/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Data Analysis</title>
-				<link>https://tyrellcharle.github.io/tags/data-analysis/</link>
+				<link>http://localhost:1313/tags/data-analysis/</link>
 				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/data-analysis/</guid>
+				<guid>http://localhost:1313/tags/data-analysis/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Privacy</title>
-				<link>https://tyrellcharle.github.io/tags/privacy/</link>
+				<link>http://localhost:1313/tags/privacy/</link>
 				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/privacy/</guid>
+				<guid>http://localhost:1313/tags/privacy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Surveys</title>
-				<link>https://tyrellcharle.github.io/tags/surveys/</link>
+				<link>http://localhost:1313/tags/surveys/</link>
 				<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://tyrellcharle.github.io/tags/surveys/</guid>
+				<guid>http://localhost:1313/tags/surveys/</guid>
 				<description></description>
 			</item>
 	</channel>
